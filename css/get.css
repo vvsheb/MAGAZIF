@@ -1,0 +1,459 @@
+.wrapper{
+	
+	margin: 0 auto;
+	width: 1100px;
+	height: 4000px;
+	border: 1px solid red;
+}
+.header{
+	height: 200px;
+	border: 1px solid red;
+
+}
+.kontainer{
+	
+	display: flex;
+	height: 3600px;
+	border: 1px solid red;
+
+
+}
+.sitebar{
+	border-radius: 10px;
+	margin-top: 20px;
+	margin-left: 25px;
+	width: 250px;
+	 
+	height: 3575px;
+	border: 1px solid red;
+	}
+.conntent{
+	position: relative;
+	border-radius: 10px;
+	width: 770px;
+	height: 3575px;
+	
+	border: 1px solid red;
+	margin-left: 25px;
+	margin-top: 20px;
+}
+
+.fotter{
+	
+	height: 200px;
+	border:1px solid red;
+}
+.logo{
+	width: 100px;
+	height: 100px;
+	margin-top: 20px;
+	margin-left:20px;
+	border: 1px solid red;
+}
+.nav{
+	width: 650px;
+	height: 50px;
+	margin-top: -100px;
+	margin-left:420px;
+	border: 1px solid red;
+}
+.zagolovok_1{
+	position: absolute;
+	width: 730px;
+  height: 192px;
+	border: 1px solid red;
+	left: 19px;
+  top: 16px;
+ 
+
+}
+.image_1{
+	position: absolute;
+	left: 18px;
+  top: 229px;
+  width: 168px;
+  height: 228px;
+  border: 1px solid red;
+
+}
+.image_2{
+	position: absolute;
+  left: 206px;
+  top: 229px;
+  width: 168px;
+  height: 228px;
+  
+  border: 1px solid red;
+}
+.image_3{
+	position: absolute;
+  left: 393px;
+  top: 229px;
+  width: 168px;
+  height: 228px;
+  border: 1px solid red;
+	  
+}
+.image_4{
+	position: absolute;
+	left: 581px;
+	top: 229px;
+	width: 168px;
+	height: 228px;
+	border: 1px solid red;
+
+}
+.image_5{
+	position: absolute;
+	left: 18px;
+	top: 476px;
+	width: 168px;
+	height: 228px;
+	border:1px solid red;
+}
+.image_6{
+	position: absolute;
+	left: 206px;
+	top: 476px;
+	width: 168px;
+	height: 228px;
+	border:1px solid red;
+}
+.image_7{
+	position: absolute;
+	left: 393px;
+	top: 476px;
+	width: 168px;
+	height: 228px;
+	border:1px solid red;
+}
+.image_8{
+	position: absolute;
+	left: 581px;
+	top: 476px;
+	width: 168px;
+	height: 228px;
+	border:1px solid red;
+}
+.image_9{
+	position: absolute;
+  left: 17px;
+  top: 723px;
+  width: 168px;
+  height: 228px;
+	border:1px solid red;
+}
+.image_10{
+	position: absolute;
+  left: 206px;
+  top: 723px;
+  width: 168px;
+  height: 228px;
+	border:1px solid red;
+}
+.image_11{
+	position: absolute;
+  left: 393px;
+  top: 723px;
+  width: 168px;
+  height: 228px;
+	border:1px solid red;
+}
+.image_12{
+	position: absolute;
+	left: 581px;
+	top: 723px;
+	width: 168px;
+	height: 228px;
+	border:1px solid red;
+}
+.image_13{
+	position: absolute;
+  left: 18px;
+  top: 970px;
+  width: 168px;
+  height: 228px;
+	border:1px solid red;
+}
+.image_14{
+	position: absolute;
+  left: 206px;
+  top: 970px;
+  width: 168px;
+  height: 228px;
+	border:1px solid red;
+}
+.image_15{
+	position: absolute;
+  left: 393px;
+  top: 970px;
+  width: 168px;
+  height: 228px;
+	border:1px solid red;
+}
+.image_16{
+	position: absolute;
+  left: 581px;
+  top: 970px;
+  width: 168px;
+  height: 228px;
+	border:1px solid red;
+}
+
+.image_17{
+	position: absolute;
+  left: 18px;
+  top: 1217px;
+  width: 168px;
+  height: 228px;
+  border:1px solid red;
+}
+.image_18{
+	position: absolute;
+	left: 206px;
+	top: 1217px;
+	width: 168px;
+	height: 228px;
+	border:1px solid red;
+}
+.image_19{
+	position: absolute;
+  left: 393px;
+  top: 1217px;
+  width: 168px;
+  height: 228px;
+	border:1px solid red;
+}
+.image_20{
+	position: absolute;
+  left: 581px;
+  top: 1217px;
+  width: 168px;
+  height: 228px;
+	border:1px solid red;
+}
+.image_21{
+	position: absolute;
+	left: 18px;
+	top: 1464px;
+	width: 168px;
+	height: 228px;
+	border:1px solid red;
+}
+.image_22{
+	position: absolute;
+  left: 206px;
+  top: 1464px;
+  width: 168px;
+  height: 228px;
+	border:1px solid red;
+}
+.image_23{
+	position: absolute;
+  left: 393px;
+  top: 1464px;
+  width: 168px;
+  height: 228px;
+	border:1px solid red;
+}
+.image_24{
+	position: absolute;
+  left: 581px;
+  top: 1464px;
+  width: 168px;
+  height: 228px;
+	border:1px solid red;
+}
+.image_25{
+	position: absolute;
+  left: 17px;
+  top: 1711px;
+  width: 168px;
+  height: 228px;
+	border:1px solid red;
+}
+.image_26{
+	position: absolute;
+	left: 206px;
+	top: 1711px;
+	width: 168px;
+	height: 228px;
+	border:1px solid red;
+}
+.image_27{
+	position: absolute;
+	left: 393px;
+	top: 1711px;
+	width: 168px;
+	height: 228px;
+	border:1px solid red;
+}
+.image_28{
+	position: absolute;
+  left: 581px;
+  top: 1711px;
+  width: 168px;
+  height: 228px;
+	border:1px solid red;
+}
+.image_29{
+	position: absolute;
+  left: 18px;
+  top: 1960px;
+  width: 168px;
+  height: 228px;
+	border:1px solid red;
+}
+.image_30{
+	position: absolute;
+	left: 206px;
+	top: 1960px;
+	width: 168px;
+	height: 228px;
+	
+	border:1px solid red;
+}
+.image_31{
+	position: absolute;
+	left: 393px;
+	top: 1960px;
+	width: 168px;
+	height: 228px;
+	border:1px solid red;
+}
+.image_32{
+	position: absolute;
+  left: 581px;
+  top: 1960px;
+  width: 168px;
+  height: 228px;
+	border:1px solid red;
+}
+.image_33{
+	position: absolute;
+	left: 18px;
+	top: 2207px;
+	width: 168px;
+	height: 228px;
+	border:1px solid red;
+}
+.image_34{
+	position: absolute;
+  left: 206px;
+  top: 2207px;
+  width: 168px;
+  height: 228px;
+	border:1px solid red;
+}
+.image_35{
+	position: absolute;
+	left: 393px;
+	top: 2207px;
+	width: 168px;
+	height: 228px;
+	border:1px solid red;
+}
+.image_36{
+	position: absolute;
+  left: 581px;
+  top: 2207px;
+  width: 168px;
+  height: 228px;
+	border:1px solid red;
+}
+.image_37{
+	position: absolute;
+  left: 18px;
+  top: 2454px;
+  width: 168px;
+  height: 228px;
+	border:1px solid red;
+}
+.image_38{
+	position: absolute;
+  left: 206px;
+  top: 2454px;
+  width: 168px;
+  height: 228px;
+	border:1px solid red;
+}
+.image_39{
+	position: absolute;
+  left: 393px;
+  top: 2454px;
+  width: 168px;
+  height: 228px;
+	border:1px solid red;
+}
+.image_40{
+	position: absolute;
+  left: 581px;
+  top: 2454px;
+  width: 168px;
+  height: 228px;
+	border:1px solid red;
+}
+.image_41{
+	position: absolute;
+	left: 18px;
+	top: 2703px;
+	width: 168px;
+	height: 228px;
+	border:1px solid red;
+}
+.image_42{
+	position: absolute;
+	left: 206px;
+	top: 2703px;
+	width: 168px;
+	height: 228px;
+	border:1px solid red;
+}
+.image_43{
+	position: absolute;
+  left: 393px;
+  top: 2703px;
+  width: 168px;
+  height: 228px;
+	border:1px solid red;
+}
+.image_44{
+	position: absolute;
+  left: 581px;
+  top: 2703px;
+  width: 168px;
+  height: 228px;
+	border:1px solid red;
+}
+.image_45{
+	position: absolute;
+  left: 18px;
+  top: 2952px;
+  width: 168px;
+  height: 228px;
+	border:1px solid red;
+}
+.image_46{
+	position: absolute;
+  left: 206px;
+  top: 2952px;
+  width: 168px;
+  height: 228px;
+	border:1px solid red;
+}
+.image_47{
+	position: absolute;
+  left: 393px;
+  top: 2952px;
+  width: 168px;
+  height: 228px;
+	border:1px solid red;
+}
+.image_48{
+	position: absolute;
+	left: 581px;
+	top: 2952px;
+	width: 168px;
+	height: 228px;
+	border:1px solid red;
+}
